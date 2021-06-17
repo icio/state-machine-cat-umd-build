@@ -1,6 +1,6 @@
 {
   "name": "state-machine-cat-umd-build",
-  "version": "1.0.0",
+  "version": "8.1.0",
   "description": "UMD rolup build of state-machine-cat",
   "dependencies": {
     "@rollup/plugin-commonjs": "^19.0.0",
