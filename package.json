@@ -1,6 +1,6 @@
 {
   "name": "state-machine-cat-umd-build",
-  "version": "8.1.0-rc0",
+  "version": "8.1.0",
   "description": "UMD rollup build of state-machine-cat",
   "repository": {
     "url": "https://github.com/icio/state-machine-cat-umd-build"
